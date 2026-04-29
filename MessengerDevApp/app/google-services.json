@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "39588094284",
+    "firebase_url": "https://messanger-app-d5c98-default-rtdb.firebaseio.com",
+    "project_id": "messanger-app-d5c98",
+    "storage_bucket": "messanger-app-d5c98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39588094284:android:01288ee7198098fe0c2fe9",
+        "android_client_info": {
+          "package_name": "com.sk.messanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBNgWQwilac2GOLh2wFwjWPdU-E9WgXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

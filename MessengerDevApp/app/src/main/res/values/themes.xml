@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MessangerDevApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Customize your primary brand color -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <!-- Customize the status bar color -->
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <!-- Use purple_200 for highlights or container backgrounds -->
+        <item name="colorSecondary">@color/purple_200</item>
+    </style>
+
+    <style name="Theme.MessangerDevApp" parent="Base.Theme.MessangerDevApp" />
+</resources>

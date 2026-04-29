@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue">#00278E</color>
+    <color name="chat_bg_color">#F6EDFD</color>
+    <color name="grey_hint">#6F6F6F</color>
+    <color name="send_bg">#E4E4E4</color>
+    <color name="send_message_bg">#DCF8C6</color>
+    <color name="send_message_background">#DCF8C6</color>
+    <color name="text_input_box_stroke">#00278E</color>
+    <color name="hint_color_active">#00278E</color>
+    <color name="red">#FF0000</color>
+    <color name="light_green_msg_bg">#DCF8C6</color>
+    <color name="light_blue_msg_bg">#C6E2F8</color>
+    <color name="purple_500">#00278E</color>
+    <color name="purple_700">#001D6A</color>
+    <color name="purple_200">#7089FF</color>
+</resources>
